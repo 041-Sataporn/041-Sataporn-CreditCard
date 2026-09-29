@@ -1,0 +1,7 @@
+streamlit>=1.40
+tensorflow>=2.20
+keras>=3.13
+numpy
+pandas
+scikit-learn
+joblib
